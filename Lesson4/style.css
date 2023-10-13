@@ -1,0 +1,38 @@
+.box1
+{
+	width: 500px;
+	height: 300px;
+	background-color: rgb(179, 82, 82);
+	border-style: solid;
+    text-align: center;
+    color: azure;
+    border-color: black;
+}
+.box2
+{
+    width: 200px;
+	height: 200px;
+	background-color: rgb(67, 212, 79);
+	border-style: solid;
+    border-color: black;
+    margin: 0 auto;
+}
+.con
+{
+    margin-top: 50px;
+    width: 700px;
+    height: 300px;
+    border: solid 5px black;
+}
+.indo
+{
+    width: 700px;
+    height: 150px;
+    background-color: red;
+}
+.indo2
+{
+    width: 700px;
+    height: 150px;
+    background-color: white;
+}

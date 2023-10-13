@@ -1,0 +1,17 @@
+.box1
+{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(92, 92, 196);
+    border-style: double;
+    text-align: center;
+}
+
+.box2
+{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    margin-top: 20px;
+    padding-top: 32px;
+}
